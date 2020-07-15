@@ -1,4 +1,10 @@
-<table border="0" font-family="monospace">
+<style>
+.td {
+    font-family: monospace;
+}
+</style>
+
+<table border="0">
     <tr>
         <td width="50%">
             <h1 style="font-weight: 700;">Elchin Zakizadeh</h1>
