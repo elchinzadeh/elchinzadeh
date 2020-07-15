@@ -10,7 +10,7 @@
             <h3>👌 Always perfect</h3>
         </td>
         <td>
-            <img src="assets/EVZZ_logo.png">
+            <img src="./assets/EVZZ_logo.png">
         </td>
     </tr>
 </table>
