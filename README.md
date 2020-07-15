@@ -1,13 +1,7 @@
-<style>
-.td {
-    font-family: monospace;
-}
-</style>
-
 <table border="0">
     <tr>
         <td width="50%">
-            <h1 style="font-weight: 700;">Elchin Zakizadeh</h1>
+            <h1>Elchin Zakizadeh</h1>
             <h3>💻 Full-Stack Web developer</h3>
             <h3>💛 JavaScript lover</h3>
             <h3>🌈 UI Designer (when forced)</h3>
