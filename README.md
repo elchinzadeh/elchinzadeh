@@ -1,4 +1,4 @@
-<table border="0">
+<!-- <table border="0">
     <tr>
         <td width="50%">
             <h1>Elchin Zakizadeh</h1>
@@ -12,4 +12,4 @@
             <img src="https://github.com/elchinzadeh/elchinzadeh/blob/master/assets/EVZZ_logo.png" alt="EVZZ">
         </td>
     </tr>
-</table>
+</table> -->
